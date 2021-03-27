@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="OpenCart Application POM" name="Validate Login Page" time="0">
+<skipped><![CDATA[Given user is on login page.................................................undefined
+Then user enters username and password and click on login button............undefined
+Then account page is displayed..............................................undefined
+Then validate headers and headTitle.........................................undefined
+Then user click on address book page........................................undefined
+And browser is closed.......................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
